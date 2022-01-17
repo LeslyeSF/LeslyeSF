@@ -10,6 +10,7 @@ Full-Stack Dev student at Driven Education
 Book lover
 <img src="https://media0.giphy.com/media/3ov9kbWTS6WVs4vao0/200w.webp?cid=ecf05e47ku3bnotzdzmwgyqslmnotb41qqnnwhyxtzc1ish7&rid=200w.webp&ct=s" width="30px"/> 
 </li>
+
 ## My github stats 
 ![Leslye GitHub Stats](https://github-readme-stats.vercel.app/api?username=leslyesf&show_icons=true)
 
